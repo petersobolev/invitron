@@ -3,7 +3,7 @@ Invitron by Frog //ROi<br>
 32k Invitation intro to Chaos Constructions'2015 for Vectrex<br>
 Released at Solskogen'2015<br>
 <p>
-![Alt text](https://raw.githubusercontent.com/petersobolev/invitron/master/screenshot_300.jpg "Screenshot")
+<img src="screenshot_300.jpg"/>
 
 
 
